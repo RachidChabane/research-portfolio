@@ -12,8 +12,8 @@ I build multi-agent research systems and apply them to open problems in metascie
 
 Predictor-set permutation analysis of replication scores across the SCORE Multi100 corpus. Produced end-to-end by an autonomous multi-agent research engine.
 
-- Preprint: PsyArXiv (DOI pending moderation)
-- Replication archive: [OSF — `tjehy`](https://osf.io/tjehy/)
+- Preprint (PDF): [Zenodo — DOI 10.5281/zenodo.19811343](https://doi.org/10.5281/zenodo.19811343)
+- Replication archive (data, scripts, manifest): [OSF — DOI 10.17605/OSF.IO/TJEHY](https://doi.org/10.17605/OSF.IO/TJEHY)
 
 ## Contact
 
